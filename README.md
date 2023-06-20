@@ -1,2 +1,3 @@
-# .github
-Description for TodoPeer App
+# TodoPeer
+
+TodoList app, with Commandline, App, and Web support
