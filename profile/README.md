@@ -1,10 +1,10 @@
-## Hi there 👋
+## TodoPeer
 
 TodoPeer is an OpenSource Todolist app, where you can:
 
 - create & manage tasks
 - track your timings
-- acccess it from: commandline, app, and web (developing)
+- acccess it from: [commandline](https://github.com/todopeer/cli), (app, and web are developing)
 - have full control of your own data
 
 <!--
