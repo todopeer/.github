@@ -6,6 +6,8 @@ TodoPeer is an OpenSource Todolist app, where you can:
 - track your timings
 - acccess it from: [commandline](https://github.com/todopeer/cli), (app, and web are developing)
 - have full control of your own data
+- [graphql server](https://api.todopeer.com/)
+
 
 <!--
 
